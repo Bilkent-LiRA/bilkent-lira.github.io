@@ -1,0 +1,12 @@
+
+<!---
+ Template to add a new member. -bilgin
+ <div class="row justify-content-sm-center">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/member_finegentleman.jpg" title="member_finegentleman" class="img-fluid rounded z-depth-1" caption="Fine Gentleman" %}
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0">
+        This fine gentleman is a respectable member of our group. His research interests are birds, food, and sleep. He is an expert at sleeping comfortably in the # # most weird places. He enjoys zooming around at 3 a.m. in the morning. He says his secret to success is sleeping 16 hours a day.
+    </div>
+ </div>
+-->
