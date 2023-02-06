@@ -1,7 +1,7 @@
 github_users:
   - torvalds
   - alshedivat
-  - bilkent-lira
+  - lira-p
 
 github_repos:
   - alshedivat/al-folio
@@ -11,3 +11,4 @@ github_repos:
   - FortAwesome/Font-Awesome
   - jpswalsh/academicons
   - mathjax/MathJax
+  - bilkent-lira/Teams
