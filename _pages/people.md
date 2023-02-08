@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /members/
-title: Members
+permalink: /people/
+title: People
 description: You can find the active and previous members of our group here.
 nav: True
 nav_order: 3
